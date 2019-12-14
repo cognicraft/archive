@@ -1,0 +1,4 @@
+github.com/cognicraft/sqlutil v0.0.0-20191202125901-c241118d8c1c h1:XkN7GveWRDRETVHBy0WhvegDJWY6PQkOP8T99ZYCvtU=
+github.com/cognicraft/sqlutil v0.0.0-20191202125901-c241118d8c1c/go.mod h1:pI6HcWbv0csaVHST1Y2vZlW0iDxXBTE5TDQVaUzC4gU=
+github.com/mattn/go-sqlite3 v2.0.1+incompatible h1:xQ15muvnzGBHpIpdrNi1DA5x0+TcBZzsIDwmw9uTHzw=
+github.com/mattn/go-sqlite3 v2.0.1+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
